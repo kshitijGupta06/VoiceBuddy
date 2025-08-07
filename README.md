@@ -21,10 +21,6 @@ Use `streamlit_authenticator` to add login:
 ```bash
 pip install streamlit-authenticator
 ```
-Example code: [https://github.com/mkhorasani/Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator)
-
-### 🌐 Deployment
-
 To deploy on platforms like Streamlit Cloud:
 
 1. Push your code to GitHub.
